@@ -10,7 +10,7 @@ for ( i = 1; i <= 10; i++) {
     if (numeros> mayor) {
         mayor = numeros;
     }
-    
+    hola
 }
 
 alert("El numero mayor es " + mayor)
